@@ -1,6 +1,6 @@
 <header>
     <h1 align="center">sL Code Hub</h1>
-    <h2>Project Name -- Html_TikTok_Project_48</h2>
+    <h2>Project Name -- Login Animation </h2>
 </header>
 <br /><br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
